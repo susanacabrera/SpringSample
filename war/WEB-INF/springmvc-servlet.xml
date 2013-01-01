@@ -5,7 +5,7 @@
 	  http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
 
    <!-- Map URL /hello_world.html to Controller HelloWorldController -->
-	<bean name="/hello_world.html" class="springmvc.web.HelloWorldController" />
+	<bean name="/hello_world.html" class="com.susanacabrera.springsample.controllers.HelloWorldController" />
 
    <!-- Declare View Resolver: when view 'view_name' is called (from the Controller), 
    the file '/jsp/view_name.jsp' will be used -->
