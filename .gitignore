@@ -1,0 +1,6 @@
+#Ignorados
+
+.settings
+.classpath
+.project
+classes
