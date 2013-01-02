@@ -1,6 +1,6 @@
 #Ignorados
 
 .settings
-.classpath
-.project
+#.classpath
+#.project
 classes
